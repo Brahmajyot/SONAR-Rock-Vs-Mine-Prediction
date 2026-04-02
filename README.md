@@ -1,4 +1,6 @@
 🚀 Sonar Rock vs Mine Prediction (Machine Learning Project)
+
+
 📌 Project Overview
 
 This project is a Machine Learning classification model that predicts whether an object detected by sonar is a rock or a mine.
